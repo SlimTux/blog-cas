@@ -19,21 +19,18 @@ generate_feed = true
 # The filename to use for the feed. Used as the template filename, too.
 # Defaults to "atom.xml", which has a built-in template that renders an Atom 1.0 feed.
 # There is also a built-in template "rss.xml" that renders an RSS 2.0 feed.
-feed_filename = "rss.xml"
 # The default author for pages
 author = "Slimtux"
 
 
 # The taxonomies to be rendered for the site and their configuration of the default languages
 # Example:
-#     taxonomies = [
-#       {name = "tags", feed = true}, # each tag will have its own feed
-#       {name = "tags"}, # you can have taxonomies with the same name in multiple languages
-#       {name = "categories", paginate_by = 5},  # 5 items per page for a term
-#       {name = "authors"}, # Basic definition: no feed or pagination
-#     ]
-#
-#############taxonomies = []
+     taxonomies = [
+       {name = "tags", feed = true}, # each tag will have its own feed
+       {name = "tags"}, # you can have taxonomies with the same name in multiple languages
+       {name = "categories", paginate_by = 5},  # 5 items per page for a term
+       {name = "authors"}, # Basic definition: no feed or pagination
+     ]
 
 [markdown]
 # Whether to do syntax highlighting
@@ -42,7 +39,8 @@ highlight_code = true
 
 # The theme to use for code highlighting.
 # See below for list of allowed values.
-highlight_theme = "base16-ocean-dark"
+#######################highlight_theme = "base16-ocean-dark"
+highlight_theme = "dracula"
 
 # When set to "true", emoji aliases translated to their corresponding
 # Unicode emoji equivalent in the rendered Markdown files. (e.g.: :smile: => 😄)

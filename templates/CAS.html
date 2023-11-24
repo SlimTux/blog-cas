@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+<center><h1 class="title">
+  {{ section.title }}
+</h1></center>
+
+
+<h3>
+ <nav><center>
+      <a href="/CAS/timeline">Timeline</a>
+      <a href="/CAS/prop">Proposals</a>
+      <a href="/CAS/prop">Reflections</a>
+      <a href="/CAS/group">Group Project</a>
+ </center> </nav>
+</h3>
+<h4>
+  <center><nav>
+      <a href="/CAS/creativy">Creativity</a>
+      <a href="/CAS/activity">Activity</a>
+      <a href="/CAS/timeline/">Service</a>
+ </center> </nav>
+</h4>
+
+  <!-- If you are using pagination, section.pages will be empty. You need to use the paginator object -->
+  {% for page in section.pages %}
+<ul><li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li></ul>
+  {% endfor %}
+{% endblock content %}

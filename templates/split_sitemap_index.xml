@@ -1,0 +1,4 @@
+
+permalink: String;
+updated: String?;
+extra: Hashmap<String, Any>?;

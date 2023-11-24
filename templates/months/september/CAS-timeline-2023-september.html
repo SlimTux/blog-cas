@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+<center><h1 class="title">
+  {{ section.title }}
+</h1></center>
+
+<h1>
+  <nav><center>
+      <a href="/CAS/timeline/2023"><i>Return to </i>2023</a>
+  </center></nav>
+</h1>
+
+<ol>
+  <a href="/CAS/timeline/2023/September/First\ Week">First Week</a>
+</ol>
+<ol>
+  <a href="/CAS/timeline/2023/September/Second\ Week">Second Week</a>
+</ol>
+<ol>
+  <a href="/CAS/timeline/2023/September/Third\ week">Third Week</a>
+</ol>
+<ol>
+  <a href="/CAS/timeline/2023/September/Fourth\ Week">Fourth Week</a>
+</ol>
+
+<ul>
+  <!-- If you are using pagination, section.pages will be empty. You need to use the paginator object -->
+  {% for page in section.pages %}
+  <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
+{% endblock content %}

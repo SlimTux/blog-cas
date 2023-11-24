@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+<center><h1 class="title">
+  {{ section.title }}
+</h1></center>
+
+
+<h1>
+  <nav><center>
+      <a href="/CAS/timeline/2023">2023</a>
+  </center></nav>
+</h1>
+
+  <!-- If you are using pagination, section.pages will be empty. You need to use the paginator object -->
+  {% for page in section.pages %}
+  <ul><li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li></ul>
+  {% endfor %}
+{% endblock content %}

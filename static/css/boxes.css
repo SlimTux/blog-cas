@@ -1,0 +1,79 @@
+/* https://cssbud.com/css-generator/css-glow-generator/ */
+
+
+.box-gold {
+    background: #202b38;
+    max-width: 900px;
+    margin:  auto;
+    border: 3px solid whitesmoke;
+    box-shadow:0 0 50px gold,0 0 150px gold;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+
+/* https://cssbud.com/css-generator/css-glow-generator/ */
+.box-purple {
+    background: #202b38;
+    max-width: 900px;
+    margin:  auto;
+    border: 3px solid whitesmoke;
+   -webkit-box-shadow:0px 0px 42px 0px rgba(137,46,255,0.88);
+   -moz-box-shadow: 0px 0px 42px 0px rgba(137,46,255,0.88);
+    box-shadow: 0px 0px 42px 0px rgba(137,46,255,0.88);
+    padding: 15px;
+    border-radius: 12px;
+}
+/* realistic shadow */
+.box-real {
+    background: #202b38;
+    max-width: 900px;
+    margin:  auto;
+    border: 3px solid whitesmoke;
+    box-shadow: -11px 9px 0px 0px rgba(71,27,119,0.84);
+    -webkit-box-shadow: -11px 9px 0px 0px rgba(71,27,119,0.84);
+    -moz-box-shadow: -11px 9px 0px 0px rgba(71,27,119,0.84);
+    padding: 15px;
+    border-radius: 12px;
+}
+.box-real-foot {
+    background: #202b38;
+    max-width: 300px;
+    margin:  auto;
+    border: 5px solid whitesmoke;
+    box-shadow: -8px 9px 0px 0px rgba(71,27,119,0.84);
+    -webkit-box-shadow: -8px 7px 0px 5px rgba(71,27,119,0.84);
+    -moz-box-shadow: -8px 9px 0px 0px rgba(71,27,119,0.84);
+    border-radius: 38px;
+}
+
+.box-dutch {
+    background: #fff;
+    max-width: 200px;
+    margin:  auto;
+    box-shadow: -11px 9px 0px 0px rgba(71,27,119,0.84);
+    border-top: 80px solid #fb2323;
+    border-bottom: 80px solid #5350ff;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+.box-russian {
+    background: #fff;
+    max-width: 200px;
+    margin:  auto;
+    box-shadow: -11px 9px 0px 0px rgba(71,27,119,0.84);
+    border-top: 80px solid #5350ff;
+    border-bottom: 80px solid #fb2323;
+    padding: 15px;
+    border-radius: 12px;
+}
+.box-D {
+    background: #158cba;
+    max-width: 40px;
+    margin:  auto;
+    border-radius: 0px 96px 106px 0px;
+    -webkit-border-radius: 0px 96px 106px 0px;
+    -moz-border-radius: 0px 96px 106px 0px;
+    border: 83px double #ff6550;
+}

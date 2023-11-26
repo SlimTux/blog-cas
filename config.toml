@@ -19,6 +19,10 @@ generate_feed = true
 # The filename to use for the feed. Used as the template filename, too.
 # Defaults to "atom.xml", which has a built-in template that renders an Atom 1.0 feed.
 # There is also a built-in template "rss.xml" that renders an RSS 2.0 feed.
+###feed_filename = "atom.xml"
+feed_filename = "rss.xml"
+
+
 # The default author for pages
 author = "Slimtux"
 
@@ -27,10 +31,18 @@ author = "Slimtux"
 # Example:
      taxonomies = [
        {name = "tags", feed = true}, # each tag will have its own feed
-       {name = "tags"}, # you can have taxonomies with the same name in multiple languages
        {name = "categories", paginate_by = 5},  # 5 items per page for a term
-       {name = "authors"}, # Basic definition: no feed or pagination
+       {name = "contexts"}, # Basic definition: no feed or pagination
      ]
+
+[search]
+# Whether to include the title of the page/section in the index
+include_title = true
+# Whether to include the description of the page/section in the index
+include_description = false
+# Whether to include the rendered content of the page/section in the index
+include_content = true
+
 
 [markdown]
 # Whether to do syntax highlighting
@@ -60,7 +72,35 @@ render_emoji = true
 # For example, `...` into `…`, `"quote"` into `“curly”` etc
 smart_punctuation = true
 
+
+#####[search]
+# Whether to include the title of the page/section in the index
+######include_title = true
+# Whether to include the description of the page/section in the index
+#######include_description = true
+# Whether to include the path of the page/section in the index
+###############include_path = false
+# Whether to include the rendered content of the page/section in the index
+###############include_content = true
+# At which character to truncate the content to. Useful if you have a lot of pages and the index would
+# become too big to load on the site. Defaults to not being set.
+# truncate_content_length = 100
+
+
 [extra]
 # Put all your custom variables here
 katex_enable = true
 katex_auto_render = true
+logo = "images/favicon.ico"
+homepage = "slimtux.xyz" # author homepage
+subtitle = "a" # blog subtitle
+git_source = "" # blog source code
+author = "Slimtux" # author name
+email = "e@mail.com" # author email
+license = "GPLv2" # blog license
+list_pages = true
+toc = true
+add_toc = true
+# More about site's title
+title_separator = "|"  # set as |, -, _, etc
+title_addition = "Modern Documentation Theme"

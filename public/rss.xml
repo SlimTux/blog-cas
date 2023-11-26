@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Cas&#x27;s Blog</title>
+      <link>https://blog.slimtux.xyz</link>
+      <description>This blog was createad to fulfil some scholl&#x27;s (IB CAS)mandatory stuff.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://blog.slimtux.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>FebruaryÄ</title>
+          <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/February/Fourth_Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/February/Fourth_Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>Understand Lists in HTML</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2022/test/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2022/test/</guid>
+          <description>&lt;h1 id=&quot;html-s-lists&quot;&gt;HTML’s lists&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;how-to-write-an-unordered-list-in-html&quot;&gt;How to write an unordered list in html?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt; &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Coffee&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Tea&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Milk&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt; &amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+   &lt;li&gt;Coffee&lt;&#x2F;li&gt;
+   &lt;li&gt;Tea&lt;&#x2F;li&gt;
+   &lt;li&gt;Milk&lt;&#x2F;li&gt;
+  &lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;how-to-write-an-ordered-list-in-html&quot;&gt;How to write an ordered list in html?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt; &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Coffee&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Tea&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Milk&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt; &amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ol&gt;
+   &lt;li&gt;Coffee&lt;&#x2F;li&gt;
+   &lt;li&gt;Tea&lt;&#x2F;li&gt;
+   &lt;li&gt;Milk&lt;&#x2F;li&gt;
+  &lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;meaning-of-the-above-commands&quot;&gt;Meaning of the above commands&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered List&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The “&amp;lt;ol&amp;gt;” stands for “&lt;strong&gt;o&lt;&#x2F;strong&gt;rdered &lt;strong&gt;l&lt;&#x2F;strong&gt;ist”&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;ol&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open(“&amp;lt;”) —&amp;gt; ordered_list (“&lt;strong&gt;ol&lt;&#x2F;strong&gt;”) —&amp;gt; keep_open(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;&#x2F;ol&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open command(“&amp;lt;”) —&amp;gt; close function(“&#x2F;”) —&amp;gt; Close_ordered_list (“&lt;strong&gt;ol&lt;&#x2F;strong&gt;”) —&amp;gt; keep_closed(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;The “&amp;lt;ul&amp;gt;” stands for “&lt;strong&gt;un&lt;&#x2F;strong&gt;ordered &lt;strong&gt;l&lt;&#x2F;strong&gt;ist”&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;ul&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open(“&amp;lt;”) —&amp;gt; unordered_list (“&lt;strong&gt;ul&lt;&#x2F;strong&gt;”) —&amp;gt; keep_open(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;&#x2F;ul&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open command(“&amp;lt;”) —&amp;gt; close function(“&#x2F;”) —&amp;gt; Close_unordered_list (“&lt;strong&gt;ul&lt;&#x2F;strong&gt;”) —&amp;gt; keep_closed(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/April/First Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/April/First Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/August/First Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/August/First Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/December/First Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/December/First Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/February/First_Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/February/First_Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/February/Second_Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/February/Second_Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/February/Third_Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/February/Third_Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>How to write an html button?</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/January/First_Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/January/First_Week/button/</guid>
+          <description>&lt;center&gt;
+&lt;div class=&quot;youtube&quot;&gt;
+	&lt;center&gt;    &lt;iframe
+        src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;tDqTXipQmBU?si=A-0k6HFMTLK1ZDtn&amp;amp;amp;controls=0&quot;
+        webkitallowfullscreen
+        mozallowfullscreen
+        allowfullscreen&gt;
+	&lt;&#x2F;iframe&gt;&lt;&#x2F;center&gt;
+&lt;&#x2F;div&gt;
+
+&lt;&#x2F;center&gt;
+&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>Understand Lists in HTML</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/January/Second_Week/lists/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/January/Second_Week/lists/</guid>
+          <description>&lt;h1 id=&quot;html-s-lists&quot;&gt;HTML’s lists&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;how-to-write-an-unordered-list-in-html&quot;&gt;How to write an unordered list in html?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt; &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Coffee&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Tea&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Milk&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt; &amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+   &lt;li&gt;Coffee&lt;&#x2F;li&gt;
+   &lt;li&gt;Tea&lt;&#x2F;li&gt;
+   &lt;li&gt;Milk&lt;&#x2F;li&gt;
+  &lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;how-to-write-an-ordered-list-in-html&quot;&gt;How to write an ordered list in html?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt; &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Coffee&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Tea&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Milk&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt; &amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ol&gt;
+   &lt;li&gt;Coffee&lt;&#x2F;li&gt;
+   &lt;li&gt;Tea&lt;&#x2F;li&gt;
+   &lt;li&gt;Milk&lt;&#x2F;li&gt;
+  &lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;meaning-of-the-above-commands&quot;&gt;Meaning of the above commands&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered List&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The “&amp;lt;ol&amp;gt;” stands for “&lt;strong&gt;o&lt;&#x2F;strong&gt;rdered &lt;strong&gt;l&lt;&#x2F;strong&gt;ist”&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;ol&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open(“&amp;lt;”) —&amp;gt; ordered_list (“&lt;strong&gt;ol&lt;&#x2F;strong&gt;”) —&amp;gt; keep_open(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;&#x2F;ol&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open command(“&amp;lt;”) —&amp;gt; close function(“&#x2F;”) —&amp;gt; Close_ordered_list (“&lt;strong&gt;ol&lt;&#x2F;strong&gt;”) —&amp;gt; keep_closed(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;The “&amp;lt;ul&amp;gt;” stands for “&lt;strong&gt;un&lt;&#x2F;strong&gt;ordered &lt;strong&gt;l&lt;&#x2F;strong&gt;ist”&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;ul&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open(“&amp;lt;”) —&amp;gt; unordered_list (“&lt;strong&gt;ul&lt;&#x2F;strong&gt;”) —&amp;gt; keep_open(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;&#x2F;ul&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open command(“&amp;lt;”) —&amp;gt; close function(“&#x2F;”) —&amp;gt; Close_unordered_list (“&lt;strong&gt;ul&lt;&#x2F;strong&gt;”) —&amp;gt; keep_closed(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/July/First Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/July/First Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/July/Fourth Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/July/Fourth Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/July/Second Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/July/Second Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/July/Third Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/July/Third Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/June/First Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/June/First Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>Understand Lists in HTML</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/June/test/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/June/test/</guid>
+          <description>&lt;h1 id=&quot;html-s-lists&quot;&gt;HTML’s lists&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;how-to-write-an-unordered-list-in-html&quot;&gt;How to write an unordered list in html?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt; &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Coffee&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Tea&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Milk&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt; &amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+   &lt;li&gt;Coffee&lt;&#x2F;li&gt;
+   &lt;li&gt;Tea&lt;&#x2F;li&gt;
+   &lt;li&gt;Milk&lt;&#x2F;li&gt;
+  &lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;how-to-write-an-ordered-list-in-html&quot;&gt;How to write an ordered list in html?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt; &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Coffee&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Tea&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Milk&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt; &amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ol&gt;
+   &lt;li&gt;Coffee&lt;&#x2F;li&gt;
+   &lt;li&gt;Tea&lt;&#x2F;li&gt;
+   &lt;li&gt;Milk&lt;&#x2F;li&gt;
+  &lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;meaning-of-the-above-commands&quot;&gt;Meaning of the above commands&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered List&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The “&amp;lt;ol&amp;gt;” stands for “&lt;strong&gt;o&lt;&#x2F;strong&gt;rdered &lt;strong&gt;l&lt;&#x2F;strong&gt;ist”&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;ol&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open(“&amp;lt;”) —&amp;gt; ordered_list (“&lt;strong&gt;ol&lt;&#x2F;strong&gt;”) —&amp;gt; keep_open(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;&#x2F;ol&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open command(“&amp;lt;”) —&amp;gt; close function(“&#x2F;”) —&amp;gt; Close_ordered_list (“&lt;strong&gt;ol&lt;&#x2F;strong&gt;”) —&amp;gt; keep_closed(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;The “&amp;lt;ul&amp;gt;” stands for “&lt;strong&gt;un&lt;&#x2F;strong&gt;ordered &lt;strong&gt;l&lt;&#x2F;strong&gt;ist”&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;ul&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open(“&amp;lt;”) —&amp;gt; unordered_list (“&lt;strong&gt;ul&lt;&#x2F;strong&gt;”) —&amp;gt; keep_open(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;&#x2F;ul&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open command(“&amp;lt;”) —&amp;gt; close function(“&#x2F;”) —&amp;gt; Close_unordered_list (“&lt;strong&gt;ul&lt;&#x2F;strong&gt;”) —&amp;gt; keep_closed(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/March/First_Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/March/First_Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/March/Fourth_Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/March/Fourth_Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/March/Second_Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/March/Second_Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/March/Third_Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/March/Third_Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/May/First Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/May/First Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/May/Fourth Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/May/Fourth Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/May/Second Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/May/Second Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/May/Third Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/May/Third Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/November/First Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/November/First Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/October/First Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/October/First Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>January test2</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/CAS/timeline/2023/September/First Week/button/</link>
+          <guid>https://blog.slimtux.xyz/CAS/timeline/2023/September/First Week/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>How to write an html button?</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/blog/button/</link>
+          <guid>https://blog.slimtux.xyz/blog/button/</guid>
+          <description>&lt;h2 id=&quot;how-to-write-an-html-button&quot;&gt;How to write an html button?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-center-the-html-button&quot;&gt;How to center the html button?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Just use the “center” tag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;class&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;button-save large&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Big Fat Button&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;button&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;center&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;center&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;&#x2F;button&gt;&lt;&#x2F;center&gt;
+</description>
+      </item>
+      <item>
+          <title>KaTeX</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/blog/katex/</link>
+          <guid>https://blog.slimtux.xyz/blog/katex/</guid>
+          <description>&lt;p&gt;$$\int_{-\infty}^{\infty} e^{-x^2} dx$$  &lt;!-- works --&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;$$\underbrace{a}{b} - \underbrace{c}{d}$$&lt;&#x2F;p&gt;
+&lt;p&gt;$$
+\begin{pmatrix}
+  a &amp; b \\\
+      c &amp; d
+      \end{pmatrix}
+$$&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Understand Lists in HTML</title>
+          <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/blog/lists/</link>
+          <guid>https://blog.slimtux.xyz/blog/lists/</guid>
+          <description>&lt;h1 id=&quot;html-s-lists&quot;&gt;HTML’s lists&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;how-to-write-an-unordered-list-in-html&quot;&gt;How to write an unordered list in html?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt; &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Coffee&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Tea&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Milk&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt; &amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+   &lt;li&gt;Coffee&lt;&#x2F;li&gt;
+   &lt;li&gt;Tea&lt;&#x2F;li&gt;
+   &lt;li&gt;Milk&lt;&#x2F;li&gt;
+  &lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;how-to-write-an-ordered-list-in-html&quot;&gt;How to write an ordered list in html?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt; &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Coffee&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Tea&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Milk&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;li&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt; &amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ol&gt;
+   &lt;li&gt;Coffee&lt;&#x2F;li&gt;
+   &lt;li&gt;Tea&lt;&#x2F;li&gt;
+   &lt;li&gt;Milk&lt;&#x2F;li&gt;
+  &lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;meaning-of-the-above-commands&quot;&gt;Meaning of the above commands&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered List&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The “&amp;lt;ol&amp;gt;” stands for “&lt;strong&gt;o&lt;&#x2F;strong&gt;rdered &lt;strong&gt;l&lt;&#x2F;strong&gt;ist”&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;ol&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open(“&amp;lt;”) —&amp;gt; ordered_list (“&lt;strong&gt;ol&lt;&#x2F;strong&gt;”) —&amp;gt; keep_open(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;&#x2F;ol&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open command(“&amp;lt;”) —&amp;gt; close function(“&#x2F;”) —&amp;gt; Close_ordered_list (“&lt;strong&gt;ol&lt;&#x2F;strong&gt;”) —&amp;gt; keep_closed(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ol&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;The “&amp;lt;ul&amp;gt;” stands for “&lt;strong&gt;un&lt;&#x2F;strong&gt;ordered &lt;strong&gt;l&lt;&#x2F;strong&gt;ist”&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;ul&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open(“&amp;lt;”) —&amp;gt; unordered_list (“&lt;strong&gt;ul&lt;&#x2F;strong&gt;”) —&amp;gt; keep_open(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Therefore, “&amp;lt;&#x2F;ul&amp;gt;” means:&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;open command(“&amp;lt;”) —&amp;gt; close function(“&#x2F;”) —&amp;gt; Close_unordered_list (“&lt;strong&gt;ul&lt;&#x2F;strong&gt;”) —&amp;gt; keep_closed(“&amp;gt;”)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;ul&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;blockquote&gt;
+</description>
+      </item>
+      <item>
+          <title>My Trip to Mukteshwar</title>
+          <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/blog/my-trip-to-mukteshwar/</link>
+          <guid>https://blog.slimtux.xyz/blog/my-trip-to-mukteshwar/</guid>
+          <description>&lt;p&gt;After spending more than a year in a dark room, I decided to visit mountains first time in my life. I was always excited to do
+these kind of stuff. I chose this place Mukteshwar, a small district somewhere in Uttrakhand, India. I did my research and watched
+many vlogs. I wanted to do all the normie stuff like making vlog and enjoying the views.
+I had lot of issues regarding my career choices. I just got graduated and I don’t have any job currently.
+I also believed, I was getting bored with Computers a little. I had high hopes - &lt;strong&gt;that this trip will move me&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>e-mail</title>
+          <pubDate>Sun, 04 Feb 1945 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/blog/test/</link>
+          <guid>https://blog.slimtux.xyz/blog/test/</guid>
+          <description>&lt;h1 id=&quot;contact-me-via&quot;&gt;Contact me via:&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;email-mail-com&quot;&gt;email@mail.com&lt;&#x2F;h2&gt;
+</description>
+      </item>
+      <item>
+          <title>e-mail</title>
+          <pubDate>Sun, 04 Feb 1945 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/contact/test/</link>
+          <guid>https://blog.slimtux.xyz/contact/test/</guid>
+          <description>&lt;h1 id=&quot;contact-me-via&quot;&gt;Contact me via:&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;email-mail-com&quot;&gt;email@mail.com&lt;&#x2F;h2&gt;
+</description>
+      </item>
+      <item>
+          <title>Shortcodes</title>
+          <pubDate>Wed, 04 Feb 1925 00:00:00 +0000</pubDate>
+          <author>Slimtux</author>
+          <link>https://blog.slimtux.xyz/about/video/</link>
+          <guid>https://blog.slimtux.xyz/about/video/</guid>
+          <description>&lt;p&gt;Here is a YouTube video:&lt;&#x2F;p&gt;
+&lt;center&gt;
+&lt;div &gt;
+	&lt;center&gt;    &lt;iframe
+        src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;tDqTXipQmBU?autoplay=1&quot;
+        webkitallowfullscreen
+        mozallowfullscreen
+        allowfullscreen&gt;
+	&lt;&#x2F;iframe&gt;&lt;&#x2F;center&gt;
+&lt;&#x2F;div&gt;
+
+&lt;&#x2F;center&gt;
+&lt;p&gt;As someone said:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+	&lt;strong&gt;&quot;Blah Blah Blahh&quot;&lt;&#x2F;strong&gt;&lt;br&gt;
+    -- &lt;i&gt;Castro,Henrique&lt;&#x2F;i&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;&lt;&#x2F;th&gt;
+    &lt;th&gt;Tables&lt;&#x2F;th&gt;
+    &lt;th&gt;Are&lt;&#x2F;th&gt;
+    &lt;th&gt;Cool&lt;&#x2F;th&gt;
+  &lt;&#x2F;tr&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Zebra&lt;&#x2F;th&gt;
+    &lt;td&gt;Stripes&lt;&#x2F;td&gt;
+    &lt;td&gt;Are&lt;&#x2F;td&gt;
+    &lt;td&gt;Pretty&lt;&#x2F;td&gt;
+  &lt;&#x2F;tr&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Body&lt;&#x2F;th&gt;
+    &lt;td&gt;Is&lt;&#x2F;td&gt;
+    &lt;td&gt;Another&lt;&#x2F;td&gt;
+    &lt;td&gt;Row&lt;&#x2F;td&gt;
+  &lt;&#x2F;tr&gt;
+&lt;&#x2F;table&gt;
+&lt;p style=&quot;cursor: url(https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;riggraz&#x2F;no-style-please&#x2F;master&#x2F;logo.png), context-menu;&quot;&gt;The cursor is pointing at this paragraph!&lt;&#x2F;p&gt;
+&lt;nb-admonition type=&quot;tip&quot; role=&quot;group&quot; aria-labelledby=&quot;admonition_1&quot;&gt;
+    &lt;nb-admonition-title id=&quot;admonition_1&quot;&gt;
+        Title
+    &lt;&#x2F;nb-admonition-title&gt;
+    &lt;p&gt;
+    	&lt;b&gt;Body&lt;&#x2F;b&gt; body body
+    &lt;&#x2F;p&gt;
+&lt;&#x2F;nb-admonition&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&quot;usage-rust&quot;&gt;Usage  &lt;img src=&quot;&#x2F;rust-16x16-en.png&quot; alt=&quot;rust&quot; &#x2F;&gt;&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;rs&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-rs &quot;&gt;&lt;code class=&quot;language-rs&quot; data-lang=&quot;rs&quot;&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;% &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8be9fd;&quot;&gt;katex&lt;&#x2F;span&gt;&lt;span&gt;(block&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bd93f9;&quot;&gt;false&lt;&#x2F;span&gt;&lt;span&gt;) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;%&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;}&lt;&#x2F;span&gt;&lt;span&gt; e&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;^&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;{&lt;&#x2F;span&gt;&lt;span&gt;i\pi&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;}&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bd93f9;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bd93f9;&quot;&gt;0 &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;%&lt;&#x2F;span&gt;&lt;span&gt; end &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;%&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;output&quot;&gt;Output &lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;script &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;type&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;math&#x2F;tex&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;e^{i\pi}+1=0&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;script&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;script type=&quot;math&#x2F;tex&quot;&gt;e^{i\pi}+1=0&lt;&#x2F;script&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;div class=&quot;box-purple&quot;&gt;
+</description>
+      </item>
+    </channel>
+</rss>

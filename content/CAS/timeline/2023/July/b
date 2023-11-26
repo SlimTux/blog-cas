@@ -1,0 +1,408 @@
+	.emacs.d
+  		.abook
+  		.android
+  		.bitmonero
+  		.cache
+  		.cargo
+  		.config
+  		.cpan
+  		.emacs.d
+  		.fltk
+  		.gnupg
+  		.idlerc
+  		.ipfs_w
+  		.java
+  		.librewolf
+  		.links
+  		.local
+  		.lyrics
+  		.mail
+  		.Mail
+  		.mozilla
+  		.mplayer
+  		.nb
+  		.newsboat
+  		.npm
+  		.pal
+  		.penguinFox-Backup
+  		.pki
+  		.qt
+  		.rye
+  		.screenlayout
+  		.shared-ringdb
+  		.simplex
+  		.ssh
+  		.texlive
+  		.var
+  		.vim
+  		.vnc
+  		.vpython-root
+  		.w3m
+  		.when
+  		.yarn
+  		Documents
+  		Downloads
+  		Extensions
+  		js
+  		Mail
+  		monero-storage
+  		Music
+  		Nextcloud
+  		node_modules
+  		org
+  		penguinFox
+  		perl5
+  		Pictures
+  		Programing
+    		arbeit
+    		blogs
+      		main
+        		blog-cas
+          		content
+            		about
+            		blog
+            		CAS
+              		group
+              		timeline
+                		2022
+                		2023
+                  		April
+                  		August
+                  		December
+                  		February
+                  		January
+                    		First_Week
+                    		Fourth_Week
+                    		Second_Week
+                    		Third_Week
+                     		_index.md
+                  		July
+                  		June
+                  		March
+                  		May
+                  		November
+                  		October
+                  		September
+                   		_index.md
+                 		_index.md
+               		_index.md
+            		contact
+          		public
+          		static
+            		css
+             		CNAME
+          		templates
+            		months
+            		shortcodes
+             		404.html
+             		about.html
+             		base.html
+             		blog.html
+             		CAS-timeline-2022.html
+             		CAS-timeline-2023.html
+             		CAS-timeline.html
+             		CAS.html
+             		contact.html
+             		group.html
+             		index.html
+             		katex.html
+             		page.html
+             		sitemap.xml
+             		split_sitemap_index.xml
+           		.hugo_build.lock
+           		config.toml
+           		LICENSE
+           		README.md
+        		firecashugo
+        		slimtux.xyz
+        		zola
+          		even
+          		tilde
+            		content
+            		sass
+            		static
+            		templates
+            		themes
+             		config.toml
+             		LICENSE
+             		README.md
+             	󰸭	screen_index.png
+             	󰸭	screenshot.png
+             		theme.toml
+      		test
+    		games
+    		GITHUB
+    		hugo-universal-theme
+    		Ideas
+    		Languages
+    		learn
+    		scripts
+    		suckless
+    		websites
+  		rsync
+  		temp
+  		toggle
+  		Trash
+  		tutorial_env
+  		user.js
+  		Videos
+   		.babel.json
+   		.calc_history
+   		.Emacs #1 - Getting Started and Playing Games [MRYzPWnk2mE].webm
+   		.fehbg
+   		.gitconfig
+   		.gksu.lock
+   		.gtkrc-2.0
+   		.kpcli-history
+   		.lybniz.cfg
+   		.nbrc
+   		.netrc
+   		.npmrc
+   		.user.ini
+   		.viminfo
+   		.vimrc
+   		.Xauthority
+   		.xinitrc
+   		.xprofile
+   		.xscreensaver
+   		.yarnrc
+   		.yaspellerrc
+   		.zprofile
+   		.zshrc
+   		8hrfsw [8hrfsw].mov
+   		a
+   		a.aux
+   		a.log
+   		a.tex
+   		Approach-ex.md
+   		b.tex
+   		bookmarklet.html
+   		bookmarks-cromite-tabs.html
+   		bookmarks-cromite.html
+   		broke.md
+   	󰸭	btc.png
+   		bypass_paywalls_clean-3.3.3.0.xpi
+   		c-1.aux
+   		c-1.log
+   		c-2.aux
+   		c-2.log
+   		c.aux
+   		c.log
+   		calendar.aux
+   		calendar.html
+   		calendar.log
+   		calendar.pdf
+   		calendar.tex
+   		chapter1.tex
+   	󰸭	cloudflare-down.png
+   		d.aux
+   		d.log
+   		d.pdf
+   		d.tex
+   		data.csv
+   		dkals.aux
+   		dkals.log
+   		dois.aux
+   		dois.log
+   		dunst-reload.sh
+   		e-1.pdf
+   		e-1.tex
+   		e-2.aux
+   		e-2.log
+   		e-2.pdf
+   		e-2.tex
+   	󰈛	E-books-de-editoras-universitárias-Áreas-do-conhecimento.xlsx
+   		e.aux
+   		e.log
+   		e.pdf
+   		e.tex
+   		Events_2023_11_21_15_56_50.ics
+   		example.com.csr
+   		example.com.key
+   		exp.dat
+   	󰈥	favicon.jpeg
+   	󰸭	feh_398142_000001_pic-window-230929-2012-45.png
+   		feh_398142_000002_filelist
+   	󰸭	feh_398142_000003_pic-window-230929-2011-49.png
+   		fig3.pdf
+   		fig3.tex
+   		file.xml
+   		fileleaks
+   		fit.log
+   		foo.dat
+   		foo.data
+   		fuck.aux
+   		fuck.log
+   		fuck.pdf
+   	󰸭	gpg.png
+   		icons
+   		Identify-ex.md
+   		idvnspdifnausd.aux
+   		idvnspdifnausd.log
+   		idvnspdifnausd.pdf
+   		idvnspdifnausd.tex
+   		index.html
+   		key.txt
+   		kitty.txt
+   	󰈥	lightbulb.jpg
+   		lua-repot.aux
+   		lua-repot.log
+   		lua-repot.pdf
+   		lua-repot.toc
+   		lua.aux
+   		lua.log
+   		lua.toc
+   		mg.aux
+   		mg.log
+   		monero-wallet-cli.log
+   		moon.mp4
+   		nelqG69Wr4
+   		nextcloud
+   		org-basic.aux
+   		org-basic.fdb_latexmk
+   		org-basic.fls
+   		org-basic.html
+   		org-basic.log
+   		org-basic.tex
+   		org-basics.org
+   		org-element.el
+   		output.mov
+   		output.webm
+   		OutputFile
+   		package-lock.json
+   		package.json
+   		pessoa
+   		photorec.se2
+   	󰸭	pic-full-231101-1851-58.png
+   	󰸭	pic-selected-231008-2255-14.png
+   	󰸭	pic-selected-231008-2302-00.png
+   	󰸭	pic-selected-231008-2305-34.png
+   	󰸭	pic-selected-231008-2305-43.png
+   	󰸭	pic-selected-231008-2306-03.png
+   	󰸭	pic-selected-231008-2306-13.png
+   	󰸭	pic-selected-231008-2306-31.png
+   	󰸭	pic-selected-231010-1621-13.png
+   	󰸭	pic-selected-231010-1621-22.png
+   	󰸭	pic-selected-231010-1625-09.png
+   	󰸭	pic-selected-231010-1625-45.png
+   	󰸭	pic-selected-231010-1721-38.png
+   	󰸭	pic-selected-231010-1733-11.png
+   	󰸭	pic-selected-231010-1736-05.png
+   	󰸭	pic-selected-231011-1636-57.png
+   	󰸭	pic-selected-231012-0022-42.png
+   	󰸭	pic-selected-231012-1639-09.png
+   	󰸭	pic-selected-231012-1801-43.png
+   	󰸭	pic-selected-231012-1824-16.png
+   	󰸭	pic-selected-231014-1118-32.png
+   	󰸭	pic-selected-231015-1342-32.png
+   	󰸭	pic-selected-231015-2055-47.png
+   	󰸭	pic-selected-231015-2324-39.png
+   	󰸭	pic-selected-231015-2327-08.png
+   	󰸭	pic-selected-231017-2106-51.png
+   	󰸭	pic-selected-231018-1950-19.png
+   	󰸭	pic-selected-231019-1646-07.png
+   	󰸭	pic-selected-231019-1729-25.png
+   	󰸭	pic-selected-231021-0956-45.png
+   	󰸭	pic-selected-231021-0957-09.png
+   	󰸭	pic-selected-231022-1146-12.png
+   	󰸭	pic-selected-231023-1856-32.png
+   	󰸭	pic-selected-231023-1949-20.png
+   	󰸭	pic-selected-231023-2229-49.png
+   	󰸭	pic-selected-231025-1051-38.png
+   	󰸭	pic-selected-231025-1714-41.png
+   	󰸭	pic-selected-231026-1119-22.png
+   	󰸭	pic-selected-231028-1438-09.png
+   	󰸭	pic-selected-231030-1029-26.png
+   	󰸭	pic-selected-231030-1510-49.png
+   	󰸭	pic-selected-231031-1208-07.png
+   	󰸭	pic-selected-231031-1754-25.png
+   	󰸭	pic-selected-231031-1826-13.png
+   	󰸭	pic-selected-231031-1830-17.png
+   	󰸭	pic-selected-231031-1833-07.png
+   	󰸭	pic-selected-231031-1833-32.png
+   	󰸭	pic-selected-231031-1833-52.png
+   	󰸭	pic-selected-231031-1846-35.png
+   	󰸭	pic-selected-231101-1025-25.png
+   	󰸭	pic-selected-231101-1230-47.png
+   	󰸭	pic-selected-231101-1624-49.png
+   	󰸭	pic-selected-231101-1624-57.png
+   	󰸭	pic-selected-231101-2019-12.png
+   	󰸭	pic-selected-231101-2019-17.png
+   	󰸭	pic-selected-231101-2029-44.png
+   	󰸭	pic-selected-231101-2049-55.png
+   	󰸭	pic-selected-231103-0905-14.png
+   	󰸭	pic-selected-231103-2008-56.png
+   	󰸭	pic-selected-231105-1533-09.png
+   	󰸭	pic-selected-231105-1533-21.png
+   	󰸭	pic-selected-231106-1611-53.png
+   	󰸭	pic-selected-231108-1806-07.png
+   	󰸭	pic-selected-231112-0217-18.png
+   	󰸭	pic-selected-231114-2034-33.png
+   	󰸭	pic-selected-231115-2318-46.png
+   	󰸭	pic-selected-231119-1459-36.png
+   	󰸭	pic-selected-231119-1501-05.png
+   	󰸭	pic-selected-231121-1616-53.png
+   	󰸭	pic-selected-231121-1617-41.png
+   	󰸭	pic-selected-231121-1954-08.png
+   	󰸭	pic-window-231008-2239-31.png
+   	󰸭	pic-window-231008-2258-14.png
+   	󰸭	pic-window-231009-2130-24.png
+   	󰸭	pic-window-231009-2130-27.png
+   	󰸭	pic-window-231009-2130-48.png
+   	󰸭	pic-window-231010-1555-05.png
+   	󰸭	pic-window-231010-1743-55.png
+   	󰸭	pic-window-231012-1758-49.png
+   	󰸭	pic-window-231015-1955-24.png
+   	󰸭	pic-window-231017-2107-25.png
+   	󰸭	pic-window-231021-0948-29.png
+   	󰸭	pic-window-231021-0948-35.png
+   	󰸭	pic-window-231022-1245-14.png
+   	󰸭	pic-window-231023-1748-43.png
+   	󰸭	pic-window-231101-1407-04.png
+   		Pipfile
+   		Prompt-ex.md
+   		qr-XMR-work
+   		quick.tex
+   		README.html
+   		README.md
+   	󰸭	regxa-faq.png
+   	󰸭	regxa-off-full.png
+   	󰸭	regxa-off.png
+   		remove-number.pdf
+   		remove-number.tex
+   		rmlint.json
+   		rmlint.sh
+   		rod-NonFiction-Sonnetos.json
+   		root@51.195.247.155
+   		root@slimtux
+   		serbia.ans
+   		slimtux_xyz.csr
+   		slimtux_xyz.key
+   		slock.sh
+   		slock2.sh
+   		speedcc.fit
+   		ssh
+   		systray.diff
+   		terminfo.txt
+   		test-tab.pdf
+   		test-tab.tex
+   		test.aux
+   		test.log
+   		test.pdf
+   		test.tex
+   		test2.tex
+   		texput.log
+   		transient.c
+   		userChrome.css
+   		Usernames rolling out in early 2024 [73mmvlf4t6tb1].mp4
+   		vanitygaps.c
+   		video-231017-2101-23.mkv
+   		video-231025-1927-03.mkv
+   		video-231027-1045-59.mkv
+   		video-231110-2207-38.mkv
+   		video-231110-2213-42.mkv
+   		video-231118-2252-28.mkv
+   		view
+   		view.1
+   		waifu.sh
+   		water.html

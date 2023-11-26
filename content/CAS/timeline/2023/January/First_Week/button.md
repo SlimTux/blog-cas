@@ -3,9 +3,6 @@ title = "How to write an html button?"
 date = 2023-01-27
 +++
 <center>
-{{youtube(id="tDqTXipQmBU", autoplay=true)}}
-</center>
-<center>
 {{youtube(id="tDqTXipQmBU?si=A-0k6HFMTLK1ZDtn&amp;controls=0", autoplay=false, class="youtube")}}
 </center>
 

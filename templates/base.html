@@ -4,15 +4,18 @@
   <link href="/css/dark.css" rel="stylesheet"/>
   <link href="/css/glow.css" rel="stylesheet"/>
   <link href="/css/boxes.css" rel="stylesheet"/>
+
+  {% block rss %}
+{% set rss_path = "/rss.xml" %}
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{ https://blog.slimtux.xyz}">
+{% endblock %}
+
 	<!-- Meta tags -->
   <meta charset="UTF-8">
   <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
   <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
     <link rel="icon" href="{{ get_url(path="favicon.ico") }}">
-{% block rss %}
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
-{% endblock %}
 	<!-- Math rendering -->
 </script>
   {% if page.title %}
@@ -42,6 +45,11 @@
   </div>
 <br>
 <br>
-  <div class="box-real-foot">
+<div class="box-real">
+  <footer><center>
+    <a href="https://blog.slimtux.xyz/rss.xml"><img src="/rss.gif"></img></a>
+    <a href="https://slimtux.xyz"><img src="/slimtux.png"></img></a>
+    <a href="https://getzola.org"><img src="/zola.png"></img></a>
+  </center></footer></div>
 </body>
 </html>

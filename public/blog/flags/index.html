@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link href="/css/dark.css" rel="stylesheet"/>
+  <link href="/css/glow.css" rel="stylesheet"/>
+  <link href="/css/boxes.css" rel="stylesheet"/>
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{ https://blog.slimtux.xyz}">
+
+
+	<!-- Meta tags -->
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+    <link rel="icon" href="https://blog.slimtux.xyz/favicon.ico">
+	<!-- Math rendering -->
+</script>
+  
+  <title>Flags</title>
+  
+</head>
+
+<body>
+  <div class="box-purple">
+<nav><center>
+  <a href="/" <span class="glow-on-hover-nav">HOME</span></a>
+  <a href="/about"<span class="glow-on-hover-nav">ABOUT</span></a>
+  <a href="/contact"<span class="glow-on-hover-nav">CONTACT</span></a>
+  <a href="/CAS"<span class="glow-on-hover-nav">CAS</span></a>
+  <a href="/blog"<span class="glow-on-hover-nav">POSTS</span></a>
+</center></nav>
+
+ <hr>
+  <section class="section"><div class="container">
+      
+
+
+
+
+<center><h1 class="title">
+  Flags
+	</h1></center>
+<center><p class="subtitle"><strong>2023-11-25</strong></p></center>
+<h1 id="how-to-create-country-flags-in-css">How to create (country) Flags in <i>CSS</i></h1>
+<h2 id="to-create-a-dutch-flag-we-should-do-the-following">To create a dutch flag we should do the following:</h2>
+<ul>
+<li>create a css file where you will put your flags</li>
+<li>
+<ul>
+<li>mkdir css</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>vim box.css</li>
+</ul>
+</li>
+</ul>
+<center><strong>spaghetti code has been detected</strong></center>
+<blockquote>
+<p>CSS</p>
+<pre data-lang="css" style="background-color:#282a36;color:#f8f8f2;" class="language-css "><code class="language-css" data-lang="css"><span style="color:#50fa7b;">.box-flag-parent </span><span>{
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">border</span><span>: </span><span style="color:#bd93f9;">1</span><span style="color:#ff79c6;">px </span><span style="color:#6be5fd;">solid black</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">margin</span><span>: </span><span style="color:#bd93f9;">1</span><span style="color:#ff79c6;">rem</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">padding</span><span>: </span><span style="color:#bd93f9;">2</span><span style="color:#ff79c6;">rem </span><span style="color:#bd93f9;">2</span><span style="color:#ff79c6;">rem</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">text-align</span><span>: </span><span style="color:#6be5fd;">center</span><span>;
+</span><span>}
+</span></code></pre>
+<pre data-lang="css" style="background-color:#282a36;color:#f8f8f2;" class="language-css "><code class="language-css" data-lang="css"><span style="color:#50fa7b;">.box-flag-child-dutch </span><span>{
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">display</span><span>: </span><span style="color:#6be5fd;">inline-block</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">background</span><span>: </span><span style="color:#bd93f9;">#fff</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">max-width</span><span>: </span><span style="color:#bd93f9;">200</span><span style="color:#ff79c6;">px</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">margin</span><span>:  </span><span style="color:#6be5fd;">auto</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">box-shadow</span><span>: </span><span style="color:#bd93f9;">-11</span><span style="color:#ff79c6;">px </span><span style="color:#bd93f9;">9</span><span style="color:#ff79c6;">px </span><span style="color:#bd93f9;">0</span><span style="color:#ff79c6;">px </span><span style="color:#bd93f9;">0</span><span style="color:#ff79c6;">px </span><span style="color:#8be9fd;">rgba</span><span>(</span><span style="color:#bd93f9;">71</span><span>,</span><span style="color:#bd93f9;">27</span><span>,</span><span style="color:#bd93f9;">119</span><span>,</span><span style="color:#bd93f9;">0.84</span><span>);
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">border-top</span><span>: </span><span style="color:#bd93f9;">40</span><span style="color:#ff79c6;">px </span><span style="color:#6be5fd;">solid </span><span style="color:#bd93f9;">#fb2323</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">border-bottom</span><span>: </span><span style="color:#bd93f9;">35</span><span style="color:#ff79c6;">px </span><span style="color:#6be5fd;">solid </span><span style="color:#bd93f9;">#5350ff</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">padding</span><span>: </span><span style="color:#bd93f9;">1</span><span style="color:#ff79c6;">rem </span><span style="color:#bd93f9;">4</span><span style="color:#ff79c6;">rem</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">vertical-align</span><span>: </span><span style="color:#6be5fd;">middle</span><span>;
+</span><span>}
+</span><span style="color:#50fa7b;">.box-flag-child-russian </span><span>{
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">display</span><span>: </span><span style="color:#6be5fd;">inline-block</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">background</span><span>: </span><span style="color:#bd93f9;">#5350ff</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">max-width</span><span>: </span><span style="color:#bd93f9;">200</span><span style="color:#ff79c6;">px</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">margin</span><span>:  </span><span style="color:#6be5fd;">auto</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">box-shadow</span><span>: </span><span style="color:#bd93f9;">-11</span><span style="color:#ff79c6;">px </span><span style="color:#bd93f9;">9</span><span style="color:#ff79c6;">px </span><span style="color:#bd93f9;">0</span><span style="color:#ff79c6;">px </span><span style="color:#bd93f9;">0</span><span style="color:#ff79c6;">px </span><span style="color:#8be9fd;">rgba</span><span>(</span><span style="color:#bd93f9;">71</span><span>,</span><span style="color:#bd93f9;">27</span><span>,</span><span style="color:#bd93f9;">119</span><span>,</span><span style="color:#bd93f9;">0.84</span><span>);
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">border-top</span><span>: </span><span style="color:#bd93f9;">40</span><span style="color:#ff79c6;">px </span><span style="color:#6be5fd;">solid </span><span style="color:#bd93f9;">#fff</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">border-bottom</span><span>: </span><span style="color:#bd93f9;">40</span><span style="color:#ff79c6;">px </span><span style="color:#6be5fd;">solid </span><span style="color:#bd93f9;">#fb2323</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">padding</span><span>: </span><span style="color:#bd93f9;">1</span><span style="color:#ff79c6;">rem </span><span style="color:#bd93f9;">4</span><span style="color:#ff79c6;">rem</span><span>;
+</span><span>  </span><span style="font-style:italic;color:#66d9ef;">vertical-align</span><span>: </span><span style="color:#6be5fd;">middle</span><span>;
+</span><span>}
+</span></code></pre>
+</blockquote>
+<blockquote>
+<p>HTML </p>
+<pre data-lang="html" style="background-color:#282a36;color:#f8f8f2;" class="language-html "><code class="language-html" data-lang="html"><span>&lt;</span><span style="color:#ff79c6;">br</span><span>&gt; 
+</span><span>&lt;</span><span style="color:#ff79c6;">br</span><span>&gt;
+</span><span>
+</span><span>&lt;</span><span style="color:#ff79c6;">div </span><span style="color:#50fa7b;">class</span><span>=</span><span style="color:#f1fa8c;">&#39;box-flag-parent&#39;</span><span>&gt;
+</span><span> &lt;</span><span style="color:#ff79c6;">div </span><span style="color:#50fa7b;">class</span><span>=</span><span style="color:#f1fa8c;">&#39;box-flag-child-dutch&#39;</span><span>&gt;&lt;/</span><span style="color:#ff79c6;">div</span><span>&gt;
+</span><span>    &lt;</span><span style="color:#ff79c6;">br</span><span>&gt;
+</span><span>    &lt;</span><span style="color:#ff79c6;">br</span><span>&gt;
+</span><span>    &lt;</span><span style="color:#ff79c6;">hr</span><span>&gt;
+</span><span>    &lt;</span><span style="color:#ff79c6;">br</span><span>&gt;
+</span><span> &lt;</span><span style="color:#ff79c6;">div </span><span style="color:#50fa7b;">class</span><span>=</span><span style="color:#f1fa8c;">&#39;box-flag-child-russian&#39;</span><span>&gt;&lt;/</span><span style="color:#ff79c6;">div</span><span>&gt;
+</span><span>&lt;/</span><span style="color:#ff79c6;">div</span><span>&gt;
+</span></code></pre>
+</blockquote>
+<br>
+<br>
+<div class='box-flag-parent'>
+  <div class='box-flag-child-dutch'></div>
+  <br>
+  <br>
+  <hr>
+  <br>
+  <div class='box-flag-child-russian'></div>
+</div>
+
+
+  </section>
+
+<hr><link href="/css/glow.css" rel="stylesheet"/>
+  <footer><center><h4>&copy <a href="https://slimtux.xyz"<span class="glow-on-hover">slimtux.xyz</span></a> copyright 2023-2024</h4></center></footer>
+  </div>
+<br>
+<br>
+<div class="box-real">
+  <footer><center>
+    <a href="https://blog.slimtux.xyz/rss.xml"><img src="/rss.gif"></img></a>
+    <a href="https://slimtux.xyz"><img src="/slimtux.png"></img></a>
+    <a href="https://getzola.org"><img src="/zola.png"></img></a>
+  </center></footer></div>
+</body>
+</html>

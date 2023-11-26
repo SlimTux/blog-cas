@@ -20,7 +20,7 @@ generate_feed = true
 # Defaults to "atom.xml", which has a built-in template that renders an Atom 1.0 feed.
 # There is also a built-in template "rss.xml" that renders an RSS 2.0 feed.
 ###feed_filename = "atom.xml"
-feed_filename = "rss.xml"
+#########feed_filename = "rss.xml"
 
 
 # The default author for pages

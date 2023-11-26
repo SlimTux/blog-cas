@@ -2,13 +2,13 @@
 
 
 .box-gold {
-    background: #202b38;
-    max-width: 900px;
+    background: black;
+    max-width: 300px;
     margin:  auto;
-    border: 3px solid whitesmoke;
-    box-shadow:0 0 50px gold,0 0 150px gold;
-    padding: 15px;
-    border-radius: 12px;
+    border: 3px solid white;
+    box-shadow:0 0 10px gold,0 0 18px gold;
+    padding: 65px;
+    border-radius: 1000px;
 }
 
 

@@ -70,4 +70,12 @@ date = 2023-11-25
   <br>
   <div class='box-flag-child-russian'></div>
 </div>
+<hr>
+<script src="https://utteranc.es/client.js"
+        repo="slimtux/blog-cas"
+        issue-term="pathname"
+         theme="gruvbox-dark"     
+        crossorigin="anonymous"
+        async>
+</script>
 

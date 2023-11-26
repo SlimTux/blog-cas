@@ -91,6 +91,14 @@
   &lt;br&gt;
   &lt;div class=&#x27;box-flag-child-russian&#x27;&gt;&lt;&#x2F;div&gt;
 &lt;&#x2F;div&gt;
+&lt;hr&gt;
+&lt;script src=&quot;https:&#x2F;&#x2F;utteranc.es&#x2F;client.js&quot;
+        repo=&quot;slimtux&#x2F;blog-cas&quot;
+        issue-term=&quot;pathname&quot;
+         theme=&quot;gruvbox-dark&quot;     
+        crossorigin=&quot;anonymous&quot;
+        async&gt;
+&lt;&#x2F;script&gt;
 </content>
         
     </entry>
@@ -1314,8 +1322,78 @@ I also believed, I was getting bored with Computers a little. I had high hopes -
         <author>
           <name>Slimtux</name>
         </author>
-        <link rel="alternate" href="https://blog.slimtux.xyz/about/video/" type="text/html"/>
-        <id>https://blog.slimtux.xyz/about/video/</id>
+        <link rel="alternate" href="https://blog.slimtux.xyz/about/shortcodes/" type="text/html"/>
+        <id>https://blog.slimtux.xyz/about/shortcodes/</id>
+        
+        <content type="html">&lt;p&gt;Here is a YouTube video:&lt;&#x2F;p&gt;
+&lt;center&gt;
+&lt;div &gt;
+	&lt;center&gt;    &lt;iframe
+        src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;tDqTXipQmBU?autoplay=1&quot;
+        webkitallowfullscreen
+        mozallowfullscreen
+        allowfullscreen&gt;
+	&lt;&#x2F;iframe&gt;&lt;&#x2F;center&gt;
+&lt;&#x2F;div&gt;
+
+&lt;&#x2F;center&gt;
+&lt;p&gt;As someone said:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+	&lt;strong&gt;&quot;Blah Blah Blahh&quot;&lt;&#x2F;strong&gt;&lt;br&gt;
+    -- &lt;i&gt;Castro,Henrique&lt;&#x2F;i&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;&lt;&#x2F;th&gt;
+    &lt;th&gt;Tables&lt;&#x2F;th&gt;
+    &lt;th&gt;Are&lt;&#x2F;th&gt;
+    &lt;th&gt;Cool&lt;&#x2F;th&gt;
+  &lt;&#x2F;tr&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Zebra&lt;&#x2F;th&gt;
+    &lt;td&gt;Stripes&lt;&#x2F;td&gt;
+    &lt;td&gt;Are&lt;&#x2F;td&gt;
+    &lt;td&gt;Pretty&lt;&#x2F;td&gt;
+  &lt;&#x2F;tr&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Body&lt;&#x2F;th&gt;
+    &lt;td&gt;Is&lt;&#x2F;td&gt;
+    &lt;td&gt;Another&lt;&#x2F;td&gt;
+    &lt;td&gt;Row&lt;&#x2F;td&gt;
+  &lt;&#x2F;tr&gt;
+&lt;&#x2F;table&gt;
+&lt;p style=&quot;cursor: url(https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;riggraz&#x2F;no-style-please&#x2F;master&#x2F;logo.png), context-menu;&quot;&gt;The cursor is pointing at this paragraph!&lt;&#x2F;p&gt;
+&lt;nb-admonition type=&quot;tip&quot; role=&quot;group&quot; aria-labelledby=&quot;admonition_1&quot;&gt;
+    &lt;nb-admonition-title id=&quot;admonition_1&quot;&gt;
+        Title
+    &lt;&#x2F;nb-admonition-title&gt;
+    &lt;p&gt;
+    	&lt;b&gt;Body&lt;&#x2F;b&gt; body body
+    &lt;&#x2F;p&gt;
+&lt;&#x2F;nb-admonition&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&quot;usage-rust&quot;&gt;Usage  &lt;img src=&quot;&#x2F;rust-16x16-en.png&quot; alt=&quot;rust&quot; &#x2F;&gt;&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;rs&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-rs &quot;&gt;&lt;code class=&quot;language-rs&quot; data-lang=&quot;rs&quot;&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;% &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8be9fd;&quot;&gt;katex&lt;&#x2F;span&gt;&lt;span&gt;(block&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bd93f9;&quot;&gt;false&lt;&#x2F;span&gt;&lt;span&gt;) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;%&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;}&lt;&#x2F;span&gt;&lt;span&gt; e&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;^&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;{&lt;&#x2F;span&gt;&lt;span&gt;i\pi&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;}&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bd93f9;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bd93f9;&quot;&gt;0 &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;%&lt;&#x2F;span&gt;&lt;span&gt; end &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;%&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;output&quot;&gt;Output &lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;script &lt;&#x2F;span&gt;&lt;span style=&quot;color:#50fa7b;&quot;&gt;type&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f1fa8c;&quot;&gt;&amp;quot;math&#x2F;tex&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;e^{i\pi}+1=0&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;script&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;script type=&quot;math&#x2F;tex&quot;&gt;e^{i\pi}+1=0&lt;&#x2F;script&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;div class=&quot;box-purple&quot;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Shortcodes</title>
+        <published>1925-02-04T00:00:00+00:00</published>
+        <updated>1925-02-04T00:00:00+00:00</updated>
+        <author>
+          <name>Slimtux</name>
+        </author>
+        <link rel="alternate" href="https://blog.slimtux.xyz/blog/shortcodes/" type="text/html"/>
+        <id>https://blog.slimtux.xyz/blog/shortcodes/</id>
         
         <content type="html">&lt;p&gt;Here is a YouTube video:&lt;&#x2F;p&gt;
 &lt;center&gt;

@@ -1316,7 +1316,7 @@ I also believed, I was getting bored with Computers a little. I had high hopes -
         
     </entry>
     <entry xml:lang="en">
-        <title>Shortcodes</title>
+        <title>Playground</title>
         <published>1925-02-04T00:00:00+00:00</published>
         <updated>1925-02-04T00:00:00+00:00</updated>
         <author>
@@ -1325,7 +1325,8 @@ I also believed, I was getting bored with Computers a little. I had high hopes -
         <link rel="alternate" href="https://blog.slimtux.xyz/about/shortcodes/" type="text/html"/>
         <id>https://blog.slimtux.xyz/about/shortcodes/</id>
         
-        <content type="html">&lt;p&gt;Here is a YouTube video:&lt;&#x2F;p&gt;
+        <content type="html">&lt;h1 id=&quot;this-file-is-not-a-post-it-is-sort-of-a-playground-that-shall-not-be-considered&quot;&gt;This file is not a “post”, it is sort of a ‘&lt;em&gt;playground&lt;&#x2F;em&gt;’ that shall not be considered&lt;&#x2F;h1&gt;
+&lt;p&gt;Here is a YouTube video:&lt;&#x2F;p&gt;
 &lt;center&gt;
 &lt;div &gt;
 	&lt;center&gt;    &lt;iframe
@@ -1339,9 +1340,13 @@ I also believed, I was getting bored with Computers a little. I had high hopes -
 &lt;&#x2F;center&gt;
 &lt;p&gt;As someone said:&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
-	&lt;strong&gt;&quot;Blah Blah Blahh&quot;&lt;&#x2F;strong&gt;&lt;br&gt;
+	&lt;strong&gt;&quot;To help me, please disable the AdBlocker :)&quot;&lt;&#x2F;strong&gt;&lt;br&gt;
     -- &lt;i&gt;Castro,Henrique&lt;&#x2F;i&gt;
 &lt;&#x2F;blockquote&gt;
+&lt;center&gt;
+ &lt;iframe src=&quot;https:&#x2F;&#x2F;streamtape.com&#x2F;e&#x2F;mDla4pJ2VlIbazO&#x2F;&quot; width=&quot;800&quot; height=&quot;600&quot; allowfullscreen allowtransparency allow=&quot;autoplay&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot;&gt;
+ &lt;&#x2F;iframe&gt;
+&lt;&#x2F;center&gt;
 &lt;table&gt;
   &lt;tr&gt;
     &lt;th&gt;&lt;&#x2F;th&gt;
@@ -1386,7 +1391,7 @@ I also believed, I was getting bored with Computers a little. I had high hopes -
         
     </entry>
     <entry xml:lang="en">
-        <title>Shortcodes</title>
+        <title>Playground</title>
         <published>1925-02-04T00:00:00+00:00</published>
         <updated>1925-02-04T00:00:00+00:00</updated>
         <author>
@@ -1395,7 +1400,8 @@ I also believed, I was getting bored with Computers a little. I had high hopes -
         <link rel="alternate" href="https://blog.slimtux.xyz/blog/shortcodes/" type="text/html"/>
         <id>https://blog.slimtux.xyz/blog/shortcodes/</id>
         
-        <content type="html">&lt;p&gt;Here is a YouTube video:&lt;&#x2F;p&gt;
+        <content type="html">&lt;h1 id=&quot;this-file-is-not-a-post-it-is-sort-of-a-playground-that-shall-not-be-considered&quot;&gt;This file is not a “post”, it is sort of a ‘&lt;em&gt;playground&lt;&#x2F;em&gt;’ that shall not be considered&lt;&#x2F;h1&gt;
+&lt;p&gt;Here is a YouTube video:&lt;&#x2F;p&gt;
 &lt;center&gt;
 &lt;div &gt;
 	&lt;center&gt;    &lt;iframe
@@ -1409,9 +1415,13 @@ I also believed, I was getting bored with Computers a little. I had high hopes -
 &lt;&#x2F;center&gt;
 &lt;p&gt;As someone said:&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
-	&lt;strong&gt;&quot;Blah Blah Blahh&quot;&lt;&#x2F;strong&gt;&lt;br&gt;
+	&lt;strong&gt;&quot;To help me, please disable the AdBlocker :)&quot;&lt;&#x2F;strong&gt;&lt;br&gt;
     -- &lt;i&gt;Castro,Henrique&lt;&#x2F;i&gt;
 &lt;&#x2F;blockquote&gt;
+&lt;center&gt;
+ &lt;iframe src=&quot;https:&#x2F;&#x2F;streamtape.com&#x2F;e&#x2F;mDla4pJ2VlIbazO&#x2F;&quot; width=&quot;800&quot; height=&quot;600&quot; allowfullscreen allowtransparency allow=&quot;autoplay&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot;&gt;
+ &lt;&#x2F;iframe&gt;
+&lt;&#x2F;center&gt;
 &lt;table&gt;
   &lt;tr&gt;
     &lt;th&gt;&lt;&#x2F;th&gt;

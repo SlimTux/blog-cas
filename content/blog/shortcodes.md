@@ -1,18 +1,30 @@
 +++
-title = "Shortcodes"
+title = "Playground"
 date = 1925-02-04
 +++
+
+# This file is not a "post", it is sort of a '*playground*' that shall not be considered
+
 Here is a YouTube video:
 <center>
 {{youtube(id="tDqTXipQmBU", autoplay=true)}}
 </center>
 
-
 As someone said:
 
 {% quote(author="Castro,Henrique") %}
-Blah Blah Blahh
+To help me, please disable the AdBlocker :)
 {% end %}
+
+<center>
+ <iframe src="https://streamtape.com/e/mDla4pJ2VlIbazO/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0">
+ </iframe>
+</center>
+
+
+
+
+
 
 <table>
   <tr>
